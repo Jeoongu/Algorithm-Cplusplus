@@ -19,6 +19,12 @@
     <Filter Include="소스 파일\투포인터">
       <UniqueIdentifier>{891439c6-e94d-44d6-82dd-4dfbc6659c1e}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\슬라이딩 윈도우">
+      <UniqueIdentifier>{a0e658f1-56cd-480d-b13c-e61cc5c458b0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스택과 큐">
+      <UniqueIdentifier>{74daa0c8-070c-46c5-8f16-81a6830783d3}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="11659_구간합구하기1.cpp">
@@ -32,6 +38,15 @@
     </ClCompile>
     <ClCompile Include="1940_투포인터이동원리.cpp">
       <Filter>소스 파일\투포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="1253_좋은수.cpp">
+      <Filter>소스 파일\투포인터</Filter>
+    </ClCompile>
+    <ClCompile Include="12891_DNA비밀번호.cpp">
+      <Filter>소스 파일\슬라이딩 윈도우</Filter>
+    </ClCompile>
+    <ClCompile Include="1874_스택수열.cpp">
+      <Filter>소스 파일\스택과 큐</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
