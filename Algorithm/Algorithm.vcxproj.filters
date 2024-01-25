@@ -25,6 +25,12 @@
     <Filter Include="소스 파일\스택과 큐">
       <UniqueIdentifier>{74daa0c8-070c-46c5-8f16-81a6830783d3}</UniqueIdentifier>
     </Filter>
+    <Filter Include="소스 파일\정렬">
+      <UniqueIdentifier>{de4acab2-d37f-46ef-84da-f5e1d251aeee}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\탐색">
+      <UniqueIdentifier>{6e7a2ea6-ef49-447b-a5df-e38c32dae345}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="11659_구간합구하기1.cpp">
@@ -47,6 +53,30 @@
     </ClCompile>
     <ClCompile Include="1874_스택수열.cpp">
       <Filter>소스 파일\스택과 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="17298_오큰수구하기.cpp">
+      <Filter>소스 파일\스택과 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="2164_카드게임.cpp">
+      <Filter>소스 파일\스택과 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="11286_절댓값힙.cpp">
+      <Filter>소스 파일\스택과 큐</Filter>
+    </ClCompile>
+    <ClCompile Include="2750_버블정렬기본.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1377_버블정렬심화.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="1427_선택정렬_내림차순으로자릿수정렬.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="11399_ ATM.cpp">
+      <Filter>소스 파일\정렬</Filter>
+    </ClCompile>
+    <ClCompile Include="11724_DFS연결요소의개수.cpp">
+      <Filter>소스 파일\탐색</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
